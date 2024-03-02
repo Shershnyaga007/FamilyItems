@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "familyitems",
+  "version": "${version}",
+  "name": "FamilyItems",
+  "description": "",
+  "authors": [
+    "Shershnyaga_"
+  ],
+  "contact": {
+    "repo": "https://github.com/leshc/FamilyItems"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/familyitems/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.shershnyaga.familyitems.FamilyItemsMod"
+    ],
+    "fabric-datagen": [
+      "me.shershnyaga.familyitems.FamilyModDataGenerator"
+    ]
+  },
+  "mixins": [
+    "familyitems.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
