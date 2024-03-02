@@ -3,9 +3,9 @@ package me.shershnyaga.familyitems.items.items;
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
 
-public class FamilySwordTool implements ToolMaterial {
+public class FamilySwordDefaultTool implements ToolMaterial {
     private final int damage;
-    public FamilySwordTool(int damage) {
+    public FamilySwordDefaultTool(int damage) {
         this.damage = damage;
     }
 
