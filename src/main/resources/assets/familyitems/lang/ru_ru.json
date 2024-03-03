@@ -1,10 +1,12 @@
 {
   "darkfamily.group.name": "Высшая семья Шершнетта",
   "neonub.group.name": "Высшая семья НеоНуб",
+  "stepfks.group.name": "Старшая семья Стеепфкс",
 
   "item.familyitems.night_horror": "§bЖнец Света",
   "item.familyitems.day_horror": "§4Погибель Престолов",
   "item.familyitems.frost_sorrow": "§bЛедяная скорбь",
+  "item.familyitems.sasai_kudosai": "§aСасайкудасай",
 
   "darkfamily.night_horror.lore.1": "§6Меч означающий рассвет.",
   "darkfamily.night_horror.lore.2": "§6Легенда гласит что меч выкован",
@@ -19,5 +21,13 @@
   "neonubfamily.frost_sorrow.1": "§fХолодная богиня жаждет крови!",
   "neonubfamily.frost_sorrow.2": "§fЛедяная скорбь вмещает в себя",
   "neonubfamily.frost_sorrow.3": "§fвсю суть своей создательницы:",
-  "neonubfamily.frost_sorrow.4": "§fбоевой нрав, силу и леденящий душу холод..."
+  "neonubfamily.frost_sorrow.4": "§fбоевой нрав, силу и леденящий душу холод...",
+
+  "stepfks.sasai_kudosai.lore.1": "§eВ нефритовых залах Небесного мира Старший бог",
+  "stepfks.sasai_kudosai.lore.2": "§eИзенгард постоянно занимался изучением",
+  "stepfks.sasai_kudosai.lore.3": "§eразличных ядов и их взаимодействий с разными средами.",
+  "stepfks.sasai_kudosai.lore.4": "§eВ один из дней наблюдая за тренировками",
+  "stepfks.sasai_kudosai.lore.5": "§eпрочих Старших богов ему пришла идея",
+  "stepfks.sasai_kudosai.lore.6": "§eсоздать отравленный меч.",
+  "stepfks.sasai_kudosai.lore.7": "§eТак и появился знаменитый “Сасайкудасай”."
 }

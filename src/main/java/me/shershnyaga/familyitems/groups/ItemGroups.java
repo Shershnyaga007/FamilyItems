@@ -3,6 +3,7 @@ package me.shershnyaga.familyitems.groups;
 import me.shershnyaga.familyitems.FamilyItemsMod;
 import me.shershnyaga.familyitems.items.DarkFamilyItems;
 import me.shershnyaga.familyitems.items.NeoNubItems;
+import me.shershnyaga.familyitems.items.StepfksItems;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -28,6 +29,15 @@ public class ItemGroups {
                     .icon(() -> new ItemStack(NeoNubItems.FROST_SORROW))
                     .entries(((displayContext, entries) -> {
                         entries.add(new ItemStack(NeoNubItems.FROST_SORROW));
+                    }))
+                    .build());
+
+    public static final ItemGroup StepfksGroup = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(FamilyItemsMod.MOD_ID, "stepfks"),
+            FabricItemGroup.builder().displayName(Text.translatable("stepfks.group.name"))
+                    .icon(() -> new ItemStack(StepfksItems.SASAI_KUDOSAI))
+                    .entries(((displayContext, entries) -> {
+                        entries.add(new ItemStack(StepfksItems.SASAI_KUDOSAI));
                     }))
                     .build());
 

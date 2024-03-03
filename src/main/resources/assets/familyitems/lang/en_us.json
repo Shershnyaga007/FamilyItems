@@ -1,10 +1,12 @@
 {
   "darkfamily.group.name": "Shershnetta's High Family",
   "neonub.group.name": "NeoNub High Family",
+  "stepfks.group.name": "Steepvfx Senior Family",
 
   "item.familyitems.night_horror": "§bReaper of Light",
   "item.familyitems.day_horror": "§4Death of Thrones",
   "item.familyitems.frost_sorrow": "§bFrost Sorrow",
+  "item.familyitems.sasai_kudosai": "§aSasaikudasai",
 
   "darkfamily.night_horror.lore.1": "§6Sword meaning dawn.",
   "darkfamily.night_horror.lore.2": "§6Legend has it that the sword was",
@@ -19,5 +21,13 @@
   "neonubfamily.frost_sorrow.1": "§fThe cold goddess is out for blood!",
   "neonubfamily.frost_sorrow.2": "§fIce Sorrow contains the entire",
   "neonubfamily.frost_sorrow.3": "§fessence of its creator:",
-  "neonubfamily.frost_sorrow.4": "§ffighting spirit, strength and chilling cold..."
+  "neonubfamily.frost_sorrow.4": "§ffighting spirit, strength and chilling cold...",
+
+  "stepfks.sasai_kudosai.lore.1": "§eIn the jade halls of the Heavenly World, the Elder God",
+  "stepfks.sasai_kudosai.lore.2": "§eIsengard was constantly studying",
+  "stepfks.sasai_kudosai.lore.3": "§evarious poisons and their interactions with different",
+  "stepfks.sasai_kudosai.lore.4": "§eenvironments. One day, while watching the other",
+  "stepfks.sasai_kudosai.lore.5": "§eElder Gods training, he got the idea to create",
+  "stepfks.sasai_kudosai.lore.6": "§ea poisoned sword.",
+  "stepfks.sasai_kudosai.lore.7": "§eThis is how the famous “Sasaikudasai” appeared."
 }
