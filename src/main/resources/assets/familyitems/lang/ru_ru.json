@@ -1,7 +1,10 @@
 {
   "darkfamily.group.name": "Высшая семья Шершнетта",
+  "neonub.group.name": "Высшая семья НеоНуб",
+
   "item.familyitems.night_horror": "§bЖнец Света",
   "item.familyitems.day_horror": "§4Погибель Престолов",
+  "item.familyitems.frost_sorrow": "§bЛедяная скорбь",
 
   "darkfamily.night_horror.lore.1": "§6Меч означающий рассвет.",
   "darkfamily.night_horror.lore.2": "§6Легенда гласит что меч выкован",
@@ -11,5 +14,10 @@
   "darkfamily.day_horror.lore.1": "§5Меч означающий тьму.",
   "darkfamily.day_horror.lore.2": "§5Легенда гласит что меч выкован",
   "darkfamily.day_horror.lore.3": "§5по подобию правого глаза Шершнетты.",
-  "darkfamily.day_horror.lore.4": "§5Когда глаз открыт, он ознаменует тьму."
+  "darkfamily.day_horror.lore.4": "§5Когда глаз открыт, он ознаменует тьму.",
+
+  "neonubfamily.frost_sorrow.1": "§fХолодная богиня жаждет крови!",
+  "neonubfamily.frost_sorrow.2": "§fЛедяная скорбь вмещает в себя",
+  "neonubfamily.frost_sorrow.3": "§fвсю суть своей создательницы:",
+  "neonubfamily.frost_sorrow.4": "§fбоевой нрав, силу и леденящий душу холод..."
 }

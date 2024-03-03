@@ -1,8 +1,9 @@
-package me.shershnyaga.familyitems.items.items;
+package me.shershnyaga.familyitems.items;
 
 import me.shershnyaga.familyitems.FamilyItemsMod;
-import me.shershnyaga.familyitems.items.items.darkfamily.DayHorror;
-import me.shershnyaga.familyitems.items.items.darkfamily.NightHorror;
+import me.shershnyaga.familyitems.items.darkfamily.DayHorror;
+import me.shershnyaga.familyitems.items.darkfamily.NightHorror;
+import me.shershnyaga.familyitems.items.templates.FamilySwordDefaultTool;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;

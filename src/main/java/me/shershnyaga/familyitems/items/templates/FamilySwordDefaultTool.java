@@ -1,4 +1,4 @@
-package me.shershnyaga.familyitems.items.items;
+package me.shershnyaga.familyitems.items.templates;
 
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;

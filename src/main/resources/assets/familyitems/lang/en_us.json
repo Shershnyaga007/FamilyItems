@@ -1,7 +1,10 @@
 {
   "darkfamily.group.name": "Shershnetta's High Family",
+  "neonub.group.name": "NeoNub High Family",
+
   "item.familyitems.night_horror": "§bReaper of Light",
   "item.familyitems.day_horror": "§4Death of Thrones",
+  "item.familyitems.frost_sorrow": "§bFrost Sorrow",
 
   "darkfamily.night_horror.lore.1": "§6Sword meaning dawn.",
   "darkfamily.night_horror.lore.2": "§6Legend has it that the sword was",
@@ -11,5 +14,10 @@
   "darkfamily.day_horror.lore.1": "§5A sword signifying darkness.",
   "darkfamily.day_horror.lore.2": "§5Legend has it that the sword was forged",
   "darkfamily.day_horror.lore.3": "§5in the likeness of Shershnetta's right eye.",
-  "darkfamily.day_horror.lore.4": "§5When the eye is open, it signifies darkness."
+  "darkfamily.day_horror.lore.4": "§5When the eye is open, it signifies darkness.",
+
+  "neonubfamily.frost_sorrow.1": "§fThe cold goddess is out for blood!",
+  "neonubfamily.frost_sorrow.2": "§fIce Sorrow contains the entire",
+  "neonubfamily.frost_sorrow.3": "§fessence of its creator:",
+  "neonubfamily.frost_sorrow.4": "§ffighting spirit, strength and chilling cold..."
 }

@@ -1,6 +1,6 @@
-package me.shershnyaga.familyitems.items.items.darkfamily;
+package me.shershnyaga.familyitems.items.darkfamily;
 
-import me.shershnyaga.familyitems.items.items.FamilySword;
+import me.shershnyaga.familyitems.items.templates.FamilySword;
 import net.minecraft.client.item.TooltipContext;
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.LightningEntity;
