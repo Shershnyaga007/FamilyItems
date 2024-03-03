@@ -1,10 +1,7 @@
 package me.shershnyaga.familyitems.groups;
 
 import me.shershnyaga.familyitems.FamilyItemsMod;
-import me.shershnyaga.familyitems.items.DarkFamilyItems;
-import me.shershnyaga.familyitems.items.DeylanItems;
-import me.shershnyaga.familyitems.items.NeoNubItems;
-import me.shershnyaga.familyitems.items.StepfksItems;
+import me.shershnyaga.familyitems.items.*;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -49,6 +46,15 @@ public class ItemGroups {
                     .icon(() -> new ItemStack(DeylanItems.VOID_SWORD))
                     .entries(((displayContext, entries) -> {
                         entries.add(new ItemStack(DeylanItems.VOID_SWORD));
+                    }))
+                    .build());
+
+    public static final ItemGroup TwistGroup = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(FamilyItemsMod.MOD_ID, "twist"),
+            FabricItemGroup.builder().displayName(Text.translatable("twist.group.name"))
+                    .icon(() -> new ItemStack(TwistItems.FLAMING_TWISTER))
+                    .entries(((displayContext, entries) -> {
+                        entries.add(new ItemStack(TwistItems.FLAMING_TWISTER));
                     }))
                     .build());
 

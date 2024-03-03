@@ -3,6 +3,7 @@
   "neonub.group.name": "NeoNub High Family",
   "stepfks.group.name": "Steepvfx Senior Family",
   "deylan.group.name": "Deylan Senior Family",
+  "twist.group.name": "Junior family Twist",
 
   "item.familyitems.night_horror": "§bReaper of Light",
   "item.familyitems.day_horror": "§4Death of Thrones",
@@ -10,6 +11,7 @@
   "item.familyitems.frosty_sorrow": "§bFrosty Sorrow",
   "item.familyitems.sasai_kudosai": "§aSasaikudasai",
   "item.familyitems.void_sword": "Void",
+  "item.familyitems.flaming_twister": "§6Flaming Twister",
 
   "darkfamily.night_horror.lore.1": "§6Sword meaning dawn.",
   "darkfamily.night_horror.lore.2": "§6Legend has it that the sword was",

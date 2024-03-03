@@ -1,10 +1,7 @@
 package me.shershnyaga.familyitems;
 
 import me.shershnyaga.familyitems.groups.ItemGroups;
-import me.shershnyaga.familyitems.items.DarkFamilyItems;
-import me.shershnyaga.familyitems.items.DeylanItems;
-import me.shershnyaga.familyitems.items.NeoNubItems;
-import me.shershnyaga.familyitems.items.StepfksItems;
+import me.shershnyaga.familyitems.items.*;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.LoggerFactory;
 import org.slf4j.Logger;
@@ -20,5 +17,6 @@ public class FamilyItemsMod implements ModInitializer {
         NeoNubItems.registerItems();
         StepfksItems.registerItems();
         DeylanItems.registerItems();
+        TwistItems.registerItems();
     }
 }

@@ -3,6 +3,7 @@
   "neonub.group.name": "Высшая семья НеоНуб",
   "stepfks.group.name": "Старшая семья Стеепфкс",
   "deylan.group.name": "Старшая семья Дэйлан",
+  "twist.group.name": "Младшая семья Твист",
 
   "item.familyitems.night_horror": "§bЖнец Света",
   "item.familyitems.day_horror": "§4Погибель Престолов",
@@ -10,6 +11,7 @@
   "item.familyitems.frosty_sorrow": "§bМорозная печаль",
   "item.familyitems.sasai_kudosai": "§aСасайкудасай",
   "item.familyitems.void_sword": "Пустота",
+  "item.familyitems.flaming_twister": "§6Пылающий Твистер",
 
   "darkfamily.night_horror.lore.1": "§6Меч означающий рассвет.",
   "darkfamily.night_horror.lore.2": "§6Легенда гласит что меч выкован",
