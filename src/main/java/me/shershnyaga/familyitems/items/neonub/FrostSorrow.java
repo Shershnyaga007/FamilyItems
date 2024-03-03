@@ -27,10 +27,10 @@ public class FrostSorrow extends FamilySword {
 
     @Override
     public void appendTooltip(ItemStack stack, @Nullable World world, List<Text> tooltip, TooltipContext context) {
-        tooltip.add(Text.translatable("neonubfamily.frost_sorrow.1"));
-        tooltip.add(Text.translatable("neonubfamily.frost_sorrow.2"));
-        tooltip.add(Text.translatable("neonubfamily.frost_sorrow.3"));
-        tooltip.add(Text.translatable("neonubfamily.frost_sorrow.4"));
+        tooltip.add(Text.translatable("neonubfamily.frost_sorrow.lore.1"));
+        tooltip.add(Text.translatable("neonubfamily.frost_sorrow.lore.2"));
+        tooltip.add(Text.translatable("neonubfamily.frost_sorrow.lore.3"));
+        tooltip.add(Text.translatable("neonubfamily.frost_sorrow.lore.4"));
         super.appendTooltip(stack, world, tooltip, context);
     }
 }

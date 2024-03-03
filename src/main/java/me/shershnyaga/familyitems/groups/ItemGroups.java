@@ -30,6 +30,7 @@ public class ItemGroups {
                     .icon(() -> new ItemStack(NeoNubItems.FROST_SORROW))
                     .entries(((displayContext, entries) -> {
                         entries.add(new ItemStack(NeoNubItems.FROST_SORROW));
+                        entries.add(new ItemStack(NeoNubItems.FROSTY_SORROW));
                     }))
                     .build());
 

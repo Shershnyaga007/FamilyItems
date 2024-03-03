@@ -7,6 +7,7 @@
   "item.familyitems.night_horror": "§bЖнец Света",
   "item.familyitems.day_horror": "§4Погибель Престолов",
   "item.familyitems.frost_sorrow": "§bЛедяная скорбь",
+  "item.familyitems.frosty_sorrow": "§bМорозная печаль",
   "item.familyitems.sasai_kudosai": "§aСасайкудасай",
   "item.familyitems.void_sword": "Пустота",
 
@@ -20,10 +21,16 @@
   "darkfamily.day_horror.lore.3": "§5по подобию правого глаза Шершнетты.",
   "darkfamily.day_horror.lore.4": "§5Когда глаз открыт, он ознаменует тьму.",
 
-  "neonubfamily.frost_sorrow.1": "§fХолодная богиня жаждет крови!",
-  "neonubfamily.frost_sorrow.2": "§fЛедяная скорбь вмещает в себя",
-  "neonubfamily.frost_sorrow.3": "§fвсю суть своей создательницы:",
-  "neonubfamily.frost_sorrow.4": "§fбоевой нрав, силу и леденящий душу холод...",
+  "neonubfamily.frost_sorrow.lore.1": "§fХолодная богиня жаждет крови!",
+  "neonubfamily.frost_sorrow.lore.2": "§fЛедяная скорбь вмещает в себя",
+  "neonubfamily.frost_sorrow.lore.3": "§fвсю суть своей создательницы:",
+  "neonubfamily.frost_sorrow.lore.4": "§fбоевой нрав, силу и леденящий душу холод...",
+
+  "neonubfamily.frosty_sorrow.lore.1": "§fБогиня веками наблядала за чемпионами из разных миров",
+  "neonubfamily.frosty_sorrow.lore.2": "§fи одним из них стал Твист - обладатель необычного клинка",
+  "neonubfamily.frosty_sorrow.lore.3": "§fс магическими сферами. После вознесения он подарил свой",
+  "neonubfamily.frosty_sorrow.lore.4": "§fдревний клинок ей, а она наделила новый артефакт",
+  "neonubfamily.frosty_sorrow.lore.5": "§fморозным холодом.",
 
   "stepfks.sasai_kudosai.lore.1": "§eВ нефритовых залах Небесного мира Старший бог",
   "stepfks.sasai_kudosai.lore.2": "§eИзенгард постоянно занимался изучением",

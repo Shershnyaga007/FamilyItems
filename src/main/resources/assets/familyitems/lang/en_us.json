@@ -6,7 +6,8 @@
 
   "item.familyitems.night_horror": "§bReaper of Light",
   "item.familyitems.day_horror": "§4Death of Thrones",
-  "item.familyitems.frost_sorrow": "§bFrost Sorrow",
+  "item.familyitems.frost_sorrow": "§bFrostmourne",
+  "item.familyitems.frosty_sorrow": "§bFrosty Sorrow",
   "item.familyitems.sasai_kudosai": "§aSasaikudasai",
   "item.familyitems.void_sword": "Void",
 
@@ -20,10 +21,16 @@
   "darkfamily.day_horror.lore.3": "§5in the likeness of Shershnetta's right eye.",
   "darkfamily.day_horror.lore.4": "§5When the eye is open, it signifies darkness.",
 
-  "neonubfamily.frost_sorrow.1": "§fThe cold goddess is out for blood!",
-  "neonubfamily.frost_sorrow.2": "§fIce Sorrow contains the entire",
-  "neonubfamily.frost_sorrow.3": "§fessence of its creator:",
-  "neonubfamily.frost_sorrow.4": "§ffighting spirit, strength and chilling cold...",
+  "neonubfamily.frost_sorrow.lore.1": "§fThe cold goddess is out for blood!",
+  "neonubfamily.frost_sorrow.lore.2": "§fIce Sorrow contains the entire",
+  "neonubfamily.frost_sorrow.lore.3": "§fessence of its creator:",
+  "neonubfamily.frost_sorrow.lore.4": "§ffighting spirit, strength and chilling cold...",
+
+  "neonubfamily.frosty_sorrow.lore.1": "§fThe goddess has been watching champions from different",
+  "neonubfamily.frosty_sorrow.lore.2": "§fworlds for centuries, and one of them was Twist,",
+  "neonubfamily.frosty_sorrow.lore.3": "§fthe owner of an unusual blade with magical spheres.",
+  "neonubfamily.frosty_sorrow.lore.4": "§fAfter his ascension, he gave his ancient blade to",
+  "neonubfamily.frosty_sorrow.lore.5": "§fher, and she endowed the new artifact with frosty cold.",
 
   "stepfks.sasai_kudosai.lore.1": "§eIn the jade halls of the Heavenly World, the Elder God",
   "stepfks.sasai_kudosai.lore.2": "§eIsengard was constantly studying",

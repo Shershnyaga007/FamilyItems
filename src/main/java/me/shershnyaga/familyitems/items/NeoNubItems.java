@@ -2,6 +2,7 @@ package me.shershnyaga.familyitems.items;
 
 import me.shershnyaga.familyitems.FamilyItemsMod;
 import me.shershnyaga.familyitems.items.neonub.FrostSorrow;
+import me.shershnyaga.familyitems.items.neonub.FrostySorrow;
 import me.shershnyaga.familyitems.items.templates.FamilySword;
 import me.shershnyaga.familyitems.items.templates.FamilySwordDefaultTool;
 import net.fabricmc.fabric.api.item.v1.CustomDamageHandler;
@@ -20,6 +21,11 @@ public class NeoNubItems {
     public static final Item FROST_SORROW = Registry.register(Registries.ITEM, new Identifier(FamilyItemsMod.MOD_ID,
             "frost_sorrow"), new FrostSorrow(new FamilySwordDefaultTool(6),
             6, -3.2f, new FabricItemSettings()
+            .maxCount(1)));
+
+    public static final Item FROSTY_SORROW = Registry.register(Registries.ITEM, new Identifier(FamilyItemsMod.MOD_ID,
+            "frosty_sorrow"), new FrostySorrow(new FamilySwordDefaultTool(7),
+            7, -3f, new FabricItemSettings()
             .maxCount(1)));
 
     public static void registerItems() {
