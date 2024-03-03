@@ -1,6 +1,15 @@
 {
-  "darkfamily.group.name": "Семья Шершнетта",
-  "item.familyitems.night_horror": "Жнец ночи",
-  "item.familyitems.day_horror": "Гибель престолов"
+  "darkfamily.group.name": "Высшая семья Шершнетта",
+  "item.familyitems.night_horror": "§bЖнец Света",
+  "item.familyitems.day_horror": "§4Погибель Престолов",
 
+  "darkfamily.night_horror.lore.1": "§6Меч означающий рассвет.",
+  "darkfamily.night_horror.lore.2": "§6Легенда гласит что меч выкован",
+  "darkfamily.night_horror.lore.3": "§6по подобию левого глаза Шершнетты.",
+  "darkfamily.night_horror.lore.4": "§6Когда глаз открыт, он ознаменует свет.",
+
+  "darkfamily.day_horror.lore.1": "§5Меч означающий тьму.",
+  "darkfamily.day_horror.lore.2": "§5Легенда гласит что меч выкован",
+  "darkfamily.day_horror.lore.3": "§5по подобию правого глаза Шершнетты.",
+  "darkfamily.day_horror.lore.4": "§5Когда глаз открыт, он ознаменует тьму."
 }

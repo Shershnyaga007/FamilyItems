@@ -25,6 +25,6 @@ public class ItemGroups {
 
 
     public static void registerGroups() {
-        LOGGER.info("Register DarkFamilyItemsGroup");
+        // LOGGER.info("Register DarkFamilyItemsGroup");
     }
 }

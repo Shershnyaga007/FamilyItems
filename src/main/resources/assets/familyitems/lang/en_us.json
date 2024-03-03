@@ -1,5 +1,15 @@
 {
-  "darkfamily.group.name": "Shershnetta Family",
-  "item.familyitems.night_horror": "Night Horror",
-  "item.familyitems.day_horror": "Day Horror"
+  "darkfamily.group.name": "Shershnetta's High Family",
+  "item.familyitems.night_horror": "§bReaper of Light",
+  "item.familyitems.day_horror": "§4Death of Thrones",
+
+  "darkfamily.night_horror.lore.1": "§6Sword meaning dawn.",
+  "darkfamily.night_horror.lore.2": "§6Legend has it that the sword was",
+  "darkfamily.night_horror.lore.3": "§6forged in the likeness of Shershnetta's left eye.",
+  "darkfamily.night_horror.lore.4": "§6When the eye is open, it will signify light.",
+
+  "darkfamily.day_horror.lore.1": "§5A sword signifying darkness.",
+  "darkfamily.day_horror.lore.2": "§5Legend has it that the sword was forged",
+  "darkfamily.day_horror.lore.3": "§5in the likeness of Shershnetta's right eye.",
+  "darkfamily.day_horror.lore.4": "§5When the eye is open, it signifies darkness."
 }

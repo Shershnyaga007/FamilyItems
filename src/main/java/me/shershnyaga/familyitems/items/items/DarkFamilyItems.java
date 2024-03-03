@@ -30,6 +30,6 @@ public class DarkFamilyItems {
 
 
     public static void registerItems() {
-        LOGGER.info("Register DarkFamilyItems");
+        // LOGGER.info("Register DarkFamilyItems");
     }
 }
