@@ -1,11 +1,8 @@
-package me.shershnyaga.familyitems.items.items.DarkFamily;
+package me.shershnyaga.familyitems.items.items.darkfamily;
 
-import me.shershnyaga.familyitems.FamilyItemsMod;
 import me.shershnyaga.familyitems.items.items.FamilySword;
 import net.minecraft.client.item.TooltipContext;
-import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.TntEntity;
-import net.minecraft.entity.effect.StatusEffect;
 import net.minecraft.entity.effect.StatusEffectInstance;
 import net.minecraft.entity.effect.StatusEffects;
 import net.minecraft.entity.player.PlayerEntity;
@@ -20,7 +17,6 @@ import net.minecraft.util.TypedActionResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.Vec3d;
 import net.minecraft.world.World;
-import org.apache.logging.log4j.core.jmx.Server;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.List;

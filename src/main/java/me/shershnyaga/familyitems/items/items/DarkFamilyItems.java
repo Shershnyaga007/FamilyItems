@@ -1,18 +1,13 @@
 package me.shershnyaga.familyitems.items.items;
 
 import me.shershnyaga.familyitems.FamilyItemsMod;
-import me.shershnyaga.familyitems.items.items.DarkFamily.DayHorror;
-import me.shershnyaga.familyitems.items.items.DarkFamily.NightHorror;
-import net.fabricmc.fabric.api.item.v1.CustomDamageHandler;
+import me.shershnyaga.familyitems.items.items.darkfamily.DayHorror;
+import me.shershnyaga.familyitems.items.items.darkfamily.NightHorror;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.minecraft.entity.LivingEntity;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
-
-import static com.mojang.text2speech.Narrator.LOGGER;
 
 public class DarkFamilyItems {
 

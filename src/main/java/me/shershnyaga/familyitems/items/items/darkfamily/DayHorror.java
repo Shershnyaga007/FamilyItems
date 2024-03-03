@@ -1,4 +1,4 @@
-package me.shershnyaga.familyitems.items.items.DarkFamily;
+package me.shershnyaga.familyitems.items.items.darkfamily;
 
 import me.shershnyaga.familyitems.items.items.FamilySword;
 import net.minecraft.client.item.TooltipContext;
