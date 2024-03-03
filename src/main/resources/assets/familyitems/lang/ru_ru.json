@@ -2,11 +2,13 @@
   "darkfamily.group.name": "Высшая семья Шершнетта",
   "neonub.group.name": "Высшая семья НеоНуб",
   "stepfks.group.name": "Старшая семья Стеепфкс",
+  "deylan.group.name": "Старшая семья Дэйлан",
 
   "item.familyitems.night_horror": "§bЖнец Света",
   "item.familyitems.day_horror": "§4Погибель Престолов",
   "item.familyitems.frost_sorrow": "§bЛедяная скорбь",
   "item.familyitems.sasai_kudosai": "§aСасайкудасай",
+  "item.familyitems.void_sword": "Пустота",
 
   "darkfamily.night_horror.lore.1": "§6Меч означающий рассвет.",
   "darkfamily.night_horror.lore.2": "§6Легенда гласит что меч выкован",
@@ -29,5 +31,12 @@
   "stepfks.sasai_kudosai.lore.4": "§eВ один из дней наблюдая за тренировками",
   "stepfks.sasai_kudosai.lore.5": "§eпрочих Старших богов ему пришла идея",
   "stepfks.sasai_kudosai.lore.6": "§eсоздать отравленный меч.",
-  "stepfks.sasai_kudosai.lore.7": "§eТак и появился знаменитый “Сасайкудасай”."
+  "stepfks.sasai_kudosai.lore.7": "§eТак и появился знаменитый “Сасайкудасай”.",
+
+  "deylan.void_sword.lore.1": "§b“Пустота” необычный меч даже по меркам артефактов.",
+  "deylan.void_sword.lore.2": "§bКогда Шершнетта наконец закончил свою работу над",
+  "deylan.void_sword.lore.3": "§b“Весами Мироздания” и начал создание Бездны вместе с Дэйланом",
+  "deylan.void_sword.lore.4": "§bон вручил ему “Пустоту”, что должна была усилить его связь",
+  "deylan.void_sword.lore.5": "§bс тьмой и позволить проникать в саму суть",
+  "deylan.void_sword.lore.6": "§bБездны и питаться её силой."
 }

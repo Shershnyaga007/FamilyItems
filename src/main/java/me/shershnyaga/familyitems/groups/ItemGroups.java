@@ -2,6 +2,7 @@ package me.shershnyaga.familyitems.groups;
 
 import me.shershnyaga.familyitems.FamilyItemsMod;
 import me.shershnyaga.familyitems.items.DarkFamilyItems;
+import me.shershnyaga.familyitems.items.DeylanItems;
 import me.shershnyaga.familyitems.items.NeoNubItems;
 import me.shershnyaga.familyitems.items.StepfksItems;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
@@ -38,6 +39,15 @@ public class ItemGroups {
                     .icon(() -> new ItemStack(StepfksItems.SASAI_KUDOSAI))
                     .entries(((displayContext, entries) -> {
                         entries.add(new ItemStack(StepfksItems.SASAI_KUDOSAI));
+                    }))
+                    .build());
+
+    public static final ItemGroup DeylanGroup = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(FamilyItemsMod.MOD_ID, "deylan"),
+            FabricItemGroup.builder().displayName(Text.translatable("deylan.group.name"))
+                    .icon(() -> new ItemStack(DeylanItems.VOID_SWORD))
+                    .entries(((displayContext, entries) -> {
+                        entries.add(new ItemStack(DeylanItems.VOID_SWORD));
                     }))
                     .build());
 

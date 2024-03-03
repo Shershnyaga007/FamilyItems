@@ -2,11 +2,13 @@
   "darkfamily.group.name": "Shershnetta's High Family",
   "neonub.group.name": "NeoNub High Family",
   "stepfks.group.name": "Steepvfx Senior Family",
+  "deylan.group.name": "Deylan Senior Family",
 
   "item.familyitems.night_horror": "§bReaper of Light",
   "item.familyitems.day_horror": "§4Death of Thrones",
   "item.familyitems.frost_sorrow": "§bFrost Sorrow",
   "item.familyitems.sasai_kudosai": "§aSasaikudasai",
+  "item.familyitems.void_sword": "Void",
 
   "darkfamily.night_horror.lore.1": "§6Sword meaning dawn.",
   "darkfamily.night_horror.lore.2": "§6Legend has it that the sword was",
@@ -29,5 +31,12 @@
   "stepfks.sasai_kudosai.lore.4": "§eenvironments. One day, while watching the other",
   "stepfks.sasai_kudosai.lore.5": "§eElder Gods training, he got the idea to create",
   "stepfks.sasai_kudosai.lore.6": "§ea poisoned sword.",
-  "stepfks.sasai_kudosai.lore.7": "§eThis is how the famous “Sasaikudasai” appeared."
+  "stepfks.sasai_kudosai.lore.7": "§eThis is how the famous “Sasaikudasai” appeared.",
+
+  "deylan.void_sword.lore.1": "§b“Void” is an unusual sword even by artifact standards.",
+  "deylan.void_sword.lore.2": "§bWhen Shershnetta finally finished his work on the",
+  "deylan.void_sword.lore.3": "§b“Scales of the Universe” and began creating",
+  "deylan.void_sword.lore.4": "§bthe Abyss with Daylan, he handed him the “Void”, bwhich was",
+  "deylan.void_sword.lore.5": "§bsupposed to strengthen his connection with the darkness and allow him",
+  "deylan.void_sword.lore.6": "§b to penetrate the very essence of the Abyss and feed on its power."
 }
