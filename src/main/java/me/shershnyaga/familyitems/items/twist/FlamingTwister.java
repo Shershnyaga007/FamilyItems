@@ -1,10 +1,15 @@
 package me.shershnyaga.familyitems.items.twist;
 
 import me.shershnyaga.familyitems.items.templates.FamilySword;
+import net.minecraft.client.item.TooltipContext;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ToolMaterial;
+import net.minecraft.text.Text;
+import net.minecraft.world.World;
+import org.jetbrains.annotations.Nullable;
 
+import java.util.List;
 import java.util.Random;
 
 public class FlamingTwister extends FamilySword {
@@ -18,6 +23,17 @@ public class FlamingTwister extends FamilySword {
         if (getRandomIntInRange(1, 20) == 20)
             target.setYaw(target.getYaw() + 180);
         return super.postHit(itemStack, target, attacker);
+    }
+
+    @Override
+    public void appendTooltip(ItemStack stack, @Nullable World world, List<Text> tooltip, TooltipContext context) {
+        tooltip.add(Text.translatable("twist.flaming_twister.lore.1"));
+        tooltip.add(Text.translatable("twist.flaming_twister.lore.2"));
+        tooltip.add(Text.translatable("twist.flaming_twister.lore.3"));
+        tooltip.add(Text.translatable("twist.flaming_twister.lore.4"));
+        tooltip.add(Text.translatable("twist.flaming_twister.lore.5"));
+        tooltip.add(Text.translatable("twist.flaming_twister.lore.6"));
+        super.appendTooltip(stack, world, tooltip, context);
     }
 
     private static int getRandomIntInRange(int min, int max) {
